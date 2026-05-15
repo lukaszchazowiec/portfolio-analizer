@@ -23,6 +23,7 @@ The portfolio is hypothetical and constructed for educational purposes only.
 
 ## Project Structure
 
+```
 portfolio_analizer/
 ├── src/
 │   ├── main.py         # entry point
@@ -35,6 +36,7 @@ portfolio_analizer/
 ├── notebooks/
 │   └── analysis.ipynb  # interactive analysis
 └── requirements.txt
+```
 
 ## Getting Started
 
